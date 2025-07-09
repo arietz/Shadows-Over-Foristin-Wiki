@@ -11,12 +11,14 @@
             "id": "45269fe523e99fbe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "upscale.png"
+                "file": "Taloria.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "upscale"
+              "icon": "lucide-file",
+              "title": "Taloria"
             }
           }
         ]
@@ -169,8 +171,8 @@
   },
   "active": "45269fe523e99fbe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
     "upscale.png",
+    "conflict-files-obsidian-git.md",
     "Taloria.md",
     "Welcome.md",
     "README.md",
