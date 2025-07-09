@@ -4,7 +4,7 @@
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -20,10 +20,38 @@
         "a": 1,
         "rgb": 3175391
       }
+    },
+    {
+      "query": "Beatrice",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
+    },
+    {
+      "query": "Thorin",
+      "color": {
+        "a": 1,
+        "rgb": 18339
+      }
+    },
+    {
+      "query": "Norte",
+      "color": {
+        "a": 1,
+        "rgb": 16096000
+      }
+    },
+    {
+      "query": "Yalindor",
+      "color": {
+        "a": 1,
+        "rgb": 12502730
+      }
     }
   ],
   "collapse-display": false,
-  "showArrow": true,
+  "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1.325,
   "lineSizeMultiplier": 2.60104166666667,
@@ -32,6 +60,6 @@
   "repelStrength": 11.6666666666667,
   "linkStrength": 1,
   "linkDistance": 209,
-  "scale": 0.5087618855792606,
-  "close": true
+  "scale": 0.36288736930121374,
+  "close": false
 }

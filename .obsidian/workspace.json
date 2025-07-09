@@ -6,7 +6,7 @@
       {
         "id": "c3f0b206c25b9e4a",
         "type": "tabs",
-        "dimension": 35.152284263959395,
+        "dimension": 42.068527918781726,
         "children": [
           {
             "id": "186ae0bed883636a",
@@ -36,19 +36,22 @@
             "id": "d2b5efc4aba232ce",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Thaloria.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Thaloria"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "353771069bf15b4b",
         "type": "tabs",
-        "dimension": 64.84771573604061,
+        "dimension": 57.931472081218274,
         "children": [
           {
             "id": "bfd8279e2bf3228f",
@@ -210,20 +213,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d2b5efc4aba232ce",
+  "active": "186ae0bed883636a",
   "lastOpenFiles": [
-    "Lysedal.md",
-    "Neudola.md",
-    "upscale.png",
-    "Thaloria.md",
-    "Shiver.md",
+    "Norte.md",
+    "Beatrice.md",
     "Oglea.md",
+    "Neudola.md",
+    "Shiver.md",
+    "Lysedal.md",
+    "Thaloria.md",
     "Iladim.md",
     "Foristin.md",
-    "Elheim.md",
-    "README.md",
-    "Welcome.md",
     "Bristin.md",
+    "Elheim.md",
+    "Yalindor.md",
+    "Whera.md",
+    "Gracze.md",
+    "Thorin.md",
+    "Fion.md",
+    "Welcome.md",
+    "upscale.png",
+    "README.md",
     "Untitled/Test.md",
     "Untitled",
     "Untitled.canvas",
