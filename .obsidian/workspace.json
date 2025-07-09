@@ -11,12 +11,14 @@
             "id": "45269fe523e99fbe",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "upscale.png"
+                "file": "Oglea.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "upscale"
+              "icon": "lucide-file",
+              "title": "Oglea"
             }
           }
         ]
@@ -148,13 +150,23 @@
               "icon": "lucide-list",
               "title": "Outline of test"
             }
+          },
+          {
+            "id": "07c30a230d594ca3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -169,20 +181,20 @@
   },
   "active": "45269fe523e99fbe",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Thaloria.md",
+    "Oglea.md",
+    "Neudola.md",
+    "Iladim.md",
+    "README.md",
     "Shiver.md",
     "upscale.png",
+    "Welcome.md",
+    "conflict-files-obsidian-git.md",
     "Taloria.md",
-    "Thaloria.md",
-    "Neudola.md",
     "Lysedal.md",
-    "Iladim.md",
     "Foristin.md",
     "Elheim.md",
     "Bristin.md",
-    "Welcome.md",
-    "README.md",
-    "Oglea.md",
     "test.md",
     "test 2.md"
   ]
