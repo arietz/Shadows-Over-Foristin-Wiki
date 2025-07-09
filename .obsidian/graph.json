@@ -2,21 +2,36 @@
   "collapse-filter": false,
   "search": "",
   "showTags": true,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
-  "colorGroups": [],
-  "collapse-display": true,
-  "showArrow": false,
+  "colorGroups": [
+    {
+      "query": "Oglea",
+      "color": {
+        "a": 1,
+        "rgb": 14359066
+      }
+    },
+    {
+      "query": "Thaloria",
+      "color": {
+        "a": 1,
+        "rgb": 3175391
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.325,
+  "lineSizeMultiplier": 2.60104166666667,
   "collapse-forces": false,
   "centerStrength": 0.5,
-  "repelStrength": 10,
+  "repelStrength": 11.6666666666667,
   "linkStrength": 1,
-  "linkDistance": 260,
-  "scale": 1.0000000000000002,
+  "linkDistance": 209,
+  "scale": 0.5087618855792606,
   "close": true
 }
