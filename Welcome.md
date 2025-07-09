@@ -8,4 +8,8 @@ hello nigga
 
 niggers
 
+<<<<<<< HEAD
 Kocham uda lindeameii 
+=======
+tenna <3
+>>>>>>> origin/main
