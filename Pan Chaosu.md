@@ -1,0 +1,2 @@
+[[Yalindor]]
+-dodac lokaja

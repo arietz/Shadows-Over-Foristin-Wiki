@@ -6,10 +6,248 @@
       {
         "id": "c3f0b206c25b9e4a",
         "type": "tabs",
-        "dimension": 42.068527918781726,
+        "dimension": 56.47208121827412,
         "children": [
           {
             "id": "186ae0bed883636a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gallas.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gallas"
+            }
+          },
+          {
+            "id": "6f472eff5e04cdde",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalisto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kalisto"
+            }
+          },
+          {
+            "id": "a3583aafe83ac29b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ropa.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ropa"
+            }
+          },
+          {
+            "id": "45a8fdc32dfa5e47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Soth.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Soth"
+            }
+          },
+          {
+            "id": "07d76465ebc7d106",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Arcadius Raventhorn.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Arcadius Raventhorn"
+            }
+          },
+          {
+            "id": "f950af02814dd73b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alfred Fallow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alfred Fallow"
+            }
+          },
+          {
+            "id": "187c17402e133946",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cinder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cinder"
+            }
+          },
+          {
+            "id": "9b8d9d83de97864e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sanctum.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sanctum"
+            }
+          },
+          {
+            "id": "aa0c36084d55601a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Schiver.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Schiver"
+            }
+          },
+          {
+            "id": "7342a6481750ae61",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Tempest.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Tempest"
+            }
+          },
+          {
+            "id": "0a7139b8b78aa6dd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Juggernaut.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Juggernaut"
+            }
+          },
+          {
+            "id": "2a6033f5185f6b01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Gallows.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gallows"
+            }
+          },
+          {
+            "id": "bd67d3aa6a339c71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lindamea.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lindamea"
+            }
+          },
+          {
+            "id": "19a4fd44a6a232d9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alfred Fallow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alfred Fallow"
+            }
+          },
+          {
+            "id": "a90dff3b164ceab2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Alfred Fallow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Alfred Fallow"
+            }
+          },
+          {
+            "id": "8908ab4d4b85e043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kalisto.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Kalisto"
+            }
+          },
+          {
+            "id": "edffd1dc53e9ad4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Yalindor.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Yalindor"
+            }
+          },
+          {
+            "id": "4f9f3d6cfc338475",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -46,12 +284,13 @@
               "title": "Thaloria"
             }
           }
-        ]
+        ],
+        "currentTab": 17
       },
       {
         "id": "353771069bf15b4b",
         "type": "tabs",
-        "dimension": 57.931472081218274,
+        "dimension": 43.52791878172589,
         "children": [
           {
             "id": "bfd8279e2bf3228f",
@@ -213,36 +452,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "186ae0bed883636a",
+  "active": "4f9f3d6cfc338475",
   "lastOpenFiles": [
+    "Alfred Fallow.md",
+    "Gallas.md",
+    "Gallows.md",
+    "Arbiter Hein.md",
+    "Lindamea.md",
+    "Juggernaut.md",
+    "Aldrin.md",
+    "Pan Chaosu.md",
+    "Yalindor.md",
+    "Black Citadel.md",
+    "Shiver.md",
+    "Schiver.md",
+    "Oglea.md",
+    "Kalisto.md",
+    "Archiwum.md",
+    "Doctor.md",
+    "Darius Blackwood.md",
+    "Cinder.md",
+    "Cathrine.md",
+    "Bristin.md",
+    "Birdwatcher.md",
+    "Arcadius Raventhorn.md",
+    "Lysedal.md",
+    "Beatrice.md",
     "Zachodnia wioska Foristin.md",
     "Wschodnia wioska Foristin.md",
-    "Północna wioska Foristin.md",
-    "Elheim.md",
-    "Shiver.md",
-    "conflict-files-obsidian-git.md",
-    "Norte.md",
-    "Beatrice.md",
-    "Oglea.md",
-    "Neudola.md",
-    "Lysedal.md",
-    "Thaloria.md",
-    "Iladim.md",
-    "Foristin.md",
-    "Bristin.md",
-    "Yalindor.md",
-    "Whera.md",
-    "Gracze.md",
-    "Thorin.md",
-    "Fion.md",
-    "Welcome.md",
     "upscale.png",
-    "README.md",
-    "Untitled/Test.md",
     "Untitled",
     "Untitled.canvas",
-    "Untitled 1.canvas",
-    "test 2.md",
-    "test.md"
+    "Untitled 1.canvas"
   ]
 }
