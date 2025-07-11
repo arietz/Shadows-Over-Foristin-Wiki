@@ -1,3 +1,3 @@
 [[Lysedal]]
-[[Shiver]]
+[[Shiver - Miasto]]
 [[Neudola]]
