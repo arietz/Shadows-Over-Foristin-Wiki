@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "4c22184df3b4f595",
+        "id": "e1595136ebfb267c",
         "type": "tabs",
         "children": [
           {
-            "id": "45269fe523e99fbe",
+            "id": "3c1763d02fccad01",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {},
               "icon": "lucide-git-fork",
               "title": "Graph view"
-            }
-          },
-          {
-            "id": "9c1b3860dc37101b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Maria.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maria"
             }
           }
         ]
@@ -189,10 +175,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b1f6db86f7b6d34c",
+  "active": "3c1763d02fccad01",
   "lastOpenFiles": [
-    "Białe kosy.md",
+    "Arcadius Raventhorn.md",
+    "Martin.md",
+    "Juggernaut.md",
     "Maria.md",
+    "conflict-files-obsidian-git.md",
+    "Białe kosy.md",
     "Shepherd.md",
     "Untitled",
     "Soth.md",
@@ -202,11 +192,9 @@
     "Birdwatcher.md",
     "Beatrice.md",
     "Archiwum.md",
-    "Arcadius Raventhorn.md",
     "Arbiter Hein.md",
     "Aldrin.md",
     "Wschodnia wioska Foristin.md",
-    "conflict-files-obsidian-git.md",
     "Tempest.md",
     "Schiver.md",
     "Sanctum.md",
@@ -215,9 +203,7 @@
     "Pan Chaosu.md",
     "Orwil i Wilbur.md",
     "Orin.md",
-    "Martin.md",
     "Magnus Ironclad.md",
-    "Lindamea.md",
     "upscale.png"
   ]
 }
