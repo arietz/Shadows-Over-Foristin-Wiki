@@ -255,6 +255,7 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+<<<<<<< HEAD
           },
           {
             "id": "99b734a9a34d8815",
@@ -356,6 +357,9 @@
               "title": "upscale"
             }
           }
+=======
+          }
+>>>>>>> SOF/main
         ]
       }
     ],
@@ -504,7 +508,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
+<<<<<<< HEAD
   "active": "c2aafdbd9762f89d",
+=======
+  "active": "3c1763d02fccad01",
+>>>>>>> SOF/main
   "lastOpenFiles": [
     "Maria.md",
     "Foristin.md",
