@@ -1,83 +1,22 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
-  "showTags": true,
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": false,
-  "colorGroups": [
-    {
-      "query": "Oglea",
-      "color": {
-        "a": 1,
-        "rgb": 14359066
-      }
-    },
-    {
-      "query": "Thaloria",
-      "color": {
-        "a": 1,
-        "rgb": 3175391
-      }
-    },
-    {
-      "query": "Beatrice",
-      "color": {
-        "a": 1,
-        "rgb": 11392604
-      }
-    },
-    {
-      "query": "Thorin",
-      "color": {
-        "a": 1,
-        "rgb": 18339
-      }
-    },
-    {
-      "query": "Norte",
-      "color": {
-        "a": 1,
-        "rgb": 16096000
-      }
-    },
-    {
-      "query": "Yalindor",
-      "color": {
-        "a": 1,
-        "rgb": 12502730
-      }
-    },
-    {
-      "query": "Alfred Fallow",
-      "color": {
-        "a": 1,
-        "rgb": 16769572
-      }
-    },
-    {
-      "query": "Black Citadel",
-      "color": {
-        "a": 1,
-        "rgb": 397628
-      }
-    }
-  ],
-  "collapse-display": false,
+  "collapse-color-groups": true,
+  "colorGroups": [],
+  "collapse-display": true,
   "showArrow": false,
-  "textFadeMultiplier": 0.2,
-  "nodeSizeMultiplier": 1.58020833333333,
-  "lineSizeMultiplier": 2.57552083333333,
-  "collapse-forces": false,
-  "centerStrength": 0.338541666666667,
-  "repelStrength": 10.9375,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 245,
-<<<<<<< HEAD
-  "scale": 0.18462326225858236,
-=======
-  "scale": 0.362887369301216,
->>>>>>> SOF/main
+  "linkDistance": 250,
+  "scale": 0.36288736930121174,
   "close": true
 }
