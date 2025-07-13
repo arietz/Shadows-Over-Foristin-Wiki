@@ -11,10 +11,14 @@
             "id": "53658b4fa02747cb",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sesje/sesja 29 - 13.07.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sesja 29 - 13.07.2025"
             }
           }
         ]
@@ -167,6 +171,14 @@
   },
   "active": "53658b4fa02747cb",
   "lastOpenFiles": [
+    "NPC/Shepherd.md",
+    "Sesje/sesja 29 - 13.07.2025.md",
+    "Lokacje/Archipelag.md",
+    "upscale.png",
+    "Lokacje/Thaloria.md",
+    "Lokacje/Untitled.md",
+    "Welcome.md",
+    "Satoshi.md",
     "Przedmioty/Axes of Ancestors.md",
     "Przedmioty/The Retainer.md",
     "Przedmioty/The Hunter's Ace.md",
@@ -186,14 +198,6 @@
     "Gracze/Beatrice.md",
     "Lokacje/Archiwum.md",
     "NPC/Adler.md",
-    "NPC/Aldrin.md",
-    "NPC/Birdwatcher.md",
-    "NPC/Arbiter Hein.md",
-    "NPC/Almanfi.md",
-    "upscale.png",
-    "Lokacje/Thaloria.md",
-    "NPC/Shiver.md",
-    "NPC/Thorgrim.md",
     "Lokacje",
     "Sesje",
     "Przedmioty",
