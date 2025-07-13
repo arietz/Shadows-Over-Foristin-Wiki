@@ -23,7 +23,7 @@
 		- szkielet gobliny
 		- gruby szkielet krasnolud
 
-- Ganim, przed śmiercią, z trzęsącą ręką trzyma za szyję Kalisto i pozwala Norte wejść na bezpieczne pole.
+- (iluzje) Ganim, przed śmiercią, z trzęsącą ręką trzyma za szyję Kalisto i pozwala Norte wejść na bezpieczne pole.
 - Gratulacje od pana chaosu. Fawdon i drużyna foreshadowing radzi poczekać z następną grą.
 - Powrót do posiadłości Fallowa Alfreda (1 białej kosy), niedaleko Archiwum.
 - Spotkanie Satoshi'ego z Archipelagu. Drużyna dowiaduje się, że jest na nich zlecenie za 100 000 platyn. 
