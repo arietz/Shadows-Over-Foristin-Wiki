@@ -1,4 +1,6 @@
 # Shepherd, I Biała Kosa
+> Pomimo swojego wysokiego stanowiska, nie widziałżem, aby gardził ludźmi poniżej siebie.  
+>  \- [Juggernaut](Juggernaut.md)
 ## Dane osobowe:
 - **Imię i nazwisko:** Alfred Franz Fallow
 - **Wiek:** ~80 lat
@@ -11,5 +13,7 @@ Starszy miły pan, ubrany bardzo skromnie jak na swoją pozycję. Nosi idealnie 
 Jeśli istnieje taka opcja to stara się pomóc innym. Jednym rzutem oka jest w stanie ocenić charakter. Miły dziadzio.
 ## Stosunki 
 Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczny. Opiekuje się [białymi kosami](Bia%C5%82e%20kosy.md) i stara się rozwiązać konflikty między nimi. Nienawidzi potworów i wszystkich rzeczy z nimi powiązanych. 
+## Wydarzenia
+- Archiwum → Rozprawa sądowa w [Bristin](Bristin.md).
 ## Przeszłość
 Z zawodu pasterz. W młodości udało mu się poskromić potężnego demona który uciekł z jednego z piekieł. [Hein](Arbiter%20Hein.md) trenował go po godzinach w [Black Citadel](Black%20Citadel.md). Dzięki swojej determinacji zapracował sobie na miejsce wśród kos i po śmierci poprzedniej jedynki zajął jego miejsce.
