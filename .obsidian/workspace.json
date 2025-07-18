@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lokacje/Foristin.md",
+                "file": "NPC/Darius Blackwood.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Foristin"
+              "title": "Darius Blackwood"
             }
           }
         ]
@@ -181,10 +181,15 @@
   },
   "active": "5e3ac217c4637c81",
   "lastOpenFiles": [
-    "Welcome.md",
-    "README.md",
     "Lokacje/Foristin.md",
     "Lokacje/Thaloria.md",
+    "NPC/Darius Blackwood.md",
+    "Lokacje/Shiver - Miasto.md",
+    "Lokacje/Oglea.md",
+    "Gracze/Gracze.md",
+    "Gracze/Yalindor.md",
+    "Welcome.md",
+    "README.md",
     "Sesje/sesja 29 - 13.07.2025.md",
     "NPC/Satoshi.md",
     "Lokacje/Archipelag.md",
@@ -203,12 +208,7 @@
     "Przedmioty/Entropy.md",
     "Przedmioty/Brimstone Ring.md",
     "Przedmioty/Celestial Chronometer.md",
-    "Przedmioty/Bag of Holding.md",
-    "Przedmioty/Axes of Ancestors.md",
-    "Przedmioty/Adaptive Plate Armor.md",
     "Przedmioty",
-    "NPC/Thorgrim.md",
-    "NPC/Tempest.md",
     "NPC",
     "Lokacje",
     "Gracze",

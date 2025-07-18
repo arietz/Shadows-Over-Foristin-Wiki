@@ -1,2 +1,2 @@
-[[Thaloria]]
+[Thaloria](Thaloria.md)
 
