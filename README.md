@@ -1,7 +1,7 @@
 # *Shadows Over Foristin Wiki*
 
-Witamy w repozytorium projektu **Wikipedia poświęconej Shadows Over Foristin**!  
-Tutaj zbieramy i porządkujemy wiedzę o świecie, postaciach, lokacjach i mechanikach gry.
+Witaj w repozytorium poświęconym kampanii **Shadows Over Foristin**!
+Tutaj zbieramy i porządkujemy wiedzę o świecie, postaciach, lokacjach i wydarzeniach gry.
 ## Główne linki
 
 - **[Strona główna Wiki](./wiki/Home.md)**  
