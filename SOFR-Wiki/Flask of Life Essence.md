@@ -1,7 +1,6 @@
 # Flask of Life Essence
->  Pomimo, że pierwszy raz spotykam się z przedmiotem takim jak ten, to jednego jestem pewien...
->  To nie jest eliksir. To żarząca się esencja życia zamknięta w butelce.
-> \- Gallas
+>  Pomimo, że pierwszy raz spotykam się z przedmiotem takim jak ten, to jednego jestem pewien... To nie jest eliksir. To żarząca się esencja życia zamknięta w butelce.  
+> \- [Gallas](Gallas.md)
 ## Wygląd
 Mała zielona buteleczka ze złotą gorącą cieczo-podobną substancją w środku.
 ## Właściwości przedmiotu
