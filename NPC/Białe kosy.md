@@ -1,6 +1,6 @@
 [[Oglea]]
 [[Sanctum]]
-[[Schiver]]
+[[Shiver]]
 [[Cinder]]
 [[Tempest]]
 [[Gallows]] -> martwy
