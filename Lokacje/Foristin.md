@@ -1,2 +1,0 @@
-[Thaloria](Thaloria.md)
-
