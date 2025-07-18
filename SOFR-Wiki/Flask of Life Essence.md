@@ -11,6 +11,6 @@ Ta niewielka buteleczka została prawdopodobnie porzucona lub zapomniana przez n
 - [Poszukiwanie żółtego kryształu](Poszukiwanie%20%C5%BC%C3%B3%C5%82tego%20kryszta%C5%82u.md) → Odnalezienie przedmiotu
 ## Karta przedmiotu:  
 
-![Estus.png|350](Estus.png)
+![Estus.png|350](./grafika/Estus.png)
 ## Ciekawostki
 Przedmiot jest wprost zerżnięty od Butelki Estusa z serii *Dark Souls*.
