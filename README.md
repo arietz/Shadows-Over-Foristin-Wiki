@@ -1,10 +1,12 @@
-# Witaj na oficjalnej Wiki poświęconej kampanii *Shadows Over Foristin*
+# *Shadows Over Foristin Wiki*
 
-## Jeśli chcesz przejść na stronę główną Wiki, kliknij tutaj:
-## [Strona główna](./SOFR-Wiki/Strona%20g%C5%82%C3%B3wna.md)
+Witamy w repozytorium projektu **Wikipedia poświęconej Shadows Over Foristin**!  
+Tutaj zbieramy i porządkujemy wiedzę o świecie, postaciach, lokacjach i mechanikach gry.
+## Główne linki
 
-## Poradnik tworzenia i edycji stron
-## [Poradnik do tworzenia i edycji stron](Poradnik%20do%20tworzenia%20i%20edycji%20stron.md)
-
+- **[Strona główna Wiki](./wiki/Home.md)**  
+  Przejdź do głównego spisu treści i najważniejszych artykułów.
+- **[Poradnik tworzenia i edycji stron](./wiki/Poradnik-tworzenia-i-edycji.md)**  
+  Dowiedz się, jak dodawać nowe artykuły, poprawiać istniejące i formatować treść zgodnie ze standardami.
 ## Dołącz do zespołu
 Jeśli chcesz dołączyć do grona redaktorów Wiki, skontaktuj się osobiście z właścicielem repozytorium.
