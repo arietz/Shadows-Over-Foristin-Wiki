@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "README"
             }
           }
         ]
@@ -181,9 +181,10 @@
   },
   "active": "5e3ac217c4637c81",
   "lastOpenFiles": [
-    "README.md",
-    "Sesje/sesja 29 - 13.07.2025.md",
     "Welcome.md",
+    "README.md",
+    "Lokacje/Foristin.md",
+    "Sesje/sesja 29 - 13.07.2025.md",
     "NPC/Satoshi.md",
     "Lokacje/Archipelag.md",
     "Przedmioty/Staff of the Accursed One.md",
@@ -208,7 +209,6 @@
     "NPC/Thorgrim.md",
     "NPC/Tempest.md",
     "NPC/Soth.md",
-    "NPC/Siegfried.md",
     "NPC",
     "Lokacje",
     "Gracze",

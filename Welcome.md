@@ -1,1 +1,1 @@
-[[Foristin]]
+[Foristin](Foristin.md)
