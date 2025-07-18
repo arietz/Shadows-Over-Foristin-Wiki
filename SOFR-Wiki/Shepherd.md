@@ -2,14 +2,14 @@
 ## Dane osobowe:
 - **Imię i nazwisko:** Alfred Franz Fallow
 - **Wiek:** ~80 lat
-- **Profesja:** Właściciel tawerny Shepherd, Biała kosa 
-- **Pochodzenie:** Wioska nieopodal Lysedal
-- **Powiązania:** [Białe kosy](Bia%C5%82e%20kosy.md)
+- **Profesja:** Właściciel tawerny Shepherd, Biała kosa, pasterz
+- **Pochodzenie:** Wioska nieopodal [Lysedal](Lysedal.md)
+- **Frakcje:** [Białe kosy](Bia%C5%82e%20kosy.md)
 ## Wygląd
-Opis wyglądu (ubrania, włosy, akcesoria itp.)
+Starszy miły pan, ubrany bardzo skromnie jak na swoją pozycję. Nosi idealnie pasujący do jego twarzy wąs. Jego broń i pancerz są niewidoczne w stanie pasywnym, przeważnie nawet ich nie nosi.
 ## Osobowość
-Opis osobowości
+Jeśli istnieje taka opcja to stara się pomóc innym. Jednym rzutem oka jest w stanie ocenić charakter. Miły dziadzio.
 ## Stosunki 
-Stosunki wobec graczy i innych postaci/frakcji
+Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczny. Opiekuje się [białymi kosami](Bia%C5%82e%20kosy.md) i stara się rozwiązać konflikty między nimi. Nienawidzi potworów i wszystkich rzeczy z nimi powiązanych. 
 ## Przeszłość
-Przeszłość postaci
+Z zawodu pasterz. W młodości udało mu się poskromić potężnego demona który uciekł z jednego z piekieł. [Hein](Arbiter%20Hein.md) trenował go po godzinach w [Black Citadel](Black%20Citadel.md). Dzięki swojej determinacji zapracował sobie na miejsce wśród kos i po śmierci poprzedniej jedynki zajął jego miejsce.

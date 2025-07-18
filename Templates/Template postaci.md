@@ -4,7 +4,7 @@
 - **Wiek:** 
 - **Profesja:** 
 - **Pochodzenie:** 
-- **Powiązania:** 
+- **Frakcje:** 
 ## Wygląd
 Opis wyglądu (ubrania, włosy, akcesoria itp.)
 ## Osobowość
