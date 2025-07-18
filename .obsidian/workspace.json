@@ -4,31 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e1595136ebfb267c",
+        "id": "bd3417c59ddbb840",
         "type": "tabs",
         "children": [
           {
-            "id": "3c1763d02fccad01",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
-          },
-          {
-            "id": "2ecb5cb39d801e23",
+            "id": "5e3ac217c4637c81",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "Welcome.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "conflict-files-obsidian-git"
+              "title": "Welcome"
             }
           }
         ]
@@ -189,21 +179,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3c1763d02fccad01",
+  "active": "5e3ac217c4637c81",
   "lastOpenFiles": [
+    "README.md",
     "Sesje/sesja 29 - 13.07.2025.md",
-    "Sesje",
+    "Welcome.md",
     "NPC/Satoshi.md",
     "Lokacje/Archipelag.md",
+    "Przedmioty/Staff of the Accursed One.md",
+    "conflict-files-obsidian-git.md",
+    "Sesje",
     "Przedmioty/Flask of Life Essence.md",
     "Przedmioty/Mask of the Accursed One.md",
     "Przedmioty/Monkey paw.md",
     "Przedmioty/Ring of protection.md",
     "Przedmioty/Ring of Holding.md",
-    "Przedmioty/Staff of the Accursed One.md",
     "Przedmioty/The Hunter's Ace.md",
     "Przedmioty/The Retainer.md",
-    "conflict-files-obsidian-git.md",
     "Przedmioty/Ring of Bloodlust.md",
     "Przedmioty/Mace of The Holy Alliance.md",
     "Przedmioty/Entropy.md",
@@ -217,8 +209,6 @@
     "NPC/Tempest.md",
     "NPC/Soth.md",
     "NPC/Siegfried.md",
-    "NPC/Shiver.md",
-    "NPC/Shepherd.md",
     "NPC",
     "Lokacje",
     "Gracze",
