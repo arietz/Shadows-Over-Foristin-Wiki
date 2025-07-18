@@ -1,2 +1,2 @@
-[[Gracze]]
+[[Drużyna Pięcienia]]
 [[Pan Chaosu]]

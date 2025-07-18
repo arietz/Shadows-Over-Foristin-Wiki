@@ -17,3 +17,5 @@ Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczn
 - Archiwum → Rozprawa sądowa w [Bristin](Bristin.md).
 ## Przeszłość
 Z zawodu pasterz. W młodości udało mu się poskromić potężnego demona który uciekł z jednego z piekieł. [Hein](Arbiter%20Hein.md) trenował go po godzinach w [Black Citadel](Black%20Citadel.md). Dzięki swojej determinacji zapracował sobie na miejsce wśród kos i po śmierci poprzedniej jedynki zajął jego miejsce.
+## Ciekawostki
+Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef.

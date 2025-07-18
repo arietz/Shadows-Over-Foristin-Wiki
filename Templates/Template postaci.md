@@ -17,3 +17,5 @@ Stosunki wobec graczy i innych postaci/frakcji
 - Story Arc → wydarzenie
 ## Przeszłość
 Przeszłość postaci
+## Ciekawostki
+Koncept postaci, nawiązania 
