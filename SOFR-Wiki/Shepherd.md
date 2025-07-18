@@ -1,5 +1,5 @@
 # Shepherd, I Biała Kosa
-> Mimo swojego wysokiego stanowiska, nigdy żem nie widział, aby pogardzał niższym siebie.  
+> Mimo swojego wysokiego stanowiska, nigdy żem nie widział, aby pogardzał niższymi sobie.  
 >  \- [Juggernaut](Juggernaut.md)
 ## Dane osobowe:
 - **Imię i nazwisko:** Alfred Franz Fallow
