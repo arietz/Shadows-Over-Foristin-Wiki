@@ -3,8 +3,8 @@
 - **Imię i nazwisko:** Alfred Franz Fallow
 - **Wiek:** ~80 lat
 - **Profesja:** Właściciel tawerny Shepherd, Biała kosa 
-- **Pochodzenie:** 
-- **Powiązania:** 
+- **Pochodzenie:** Wioska nieopodal Lysedal
+- **Powiązania:** [Białe kosy](Bia%C5%82e%20kosy.md)
 ## Wygląd
 Opis wyglądu (ubrania, włosy, akcesoria itp.)
 ## Osobowość
