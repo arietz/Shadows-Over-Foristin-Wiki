@@ -1,1 +1,1 @@
-[Foristin](Foristin.md)
+[Foristin](./Lokacje/Foristin.md)
