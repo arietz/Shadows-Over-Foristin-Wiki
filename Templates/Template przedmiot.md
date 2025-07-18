@@ -10,6 +10,7 @@ Przeszłość przedmiotu
 ## Wydarzenia
 - Story Arc → wydarzenie
 ## Karta przedmiotu
-Link do zdjęcia
+
+<img src="./grafika/nazwa" alt="karta przedmiotu" width="350"/>
 ## Ciekawostki
 Koncept przedmiotu, nawiązania 
