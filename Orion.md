@@ -559,3 +559,11 @@
   - *Type:* Wondrous item (fan)  
   - *Category:* Offensive  
   **Description:** Use this folding fan to create gusts of wind that push creatures away, extinguish flames, or replicate the *gust of wind* spell.
+    
+- **Teleport Arrow**  
+  - *Rarity:* Rare  
+  - *Attunement:* No  
+  - *Type:* Weapon (ammunition)  
+  - *Category:* Miscellaneous  
+  **Description:** Instantly teleport to the location where this arrow lands.
+
