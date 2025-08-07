@@ -14,8 +14,12 @@ Jeśli istnieje taka opcja to stara się pomóc innym. Jednym rzutem oka jest w 
 ## Stosunki 
 Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczny. Opiekuje się [białymi kosami](Bia%C5%82e%20kosy.md) i stara się rozwiązać konflikty między nimi. Nienawidzi potworów i wszystkich rzeczy z nimi powiązanych. 
 ## Wydarzenia
-- Archiwum → Rozprawa sądowa w [Bristin](Bristin.md).
+- Archiwum Arc → Rozprawa sądowa w [Bristin](Bristin.md).
+- Najazd na Atone Arc → 
 ## Przeszłość
 Z zawodu pasterz. W młodości udało mu się poskromić potężnego demona który uciekł z jednego z piekieł. [Hein](Arbiter%20Hein.md) trenował go po godzinach w [Black Citadel](Black%20Citadel.md). Dzięki swojej determinacji zapracował sobie na miejsce wśród kos i po śmierci poprzedniej jedynki zajął jego miejsce.
 ## Ciekawostki
-Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef.
+Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef.  
+**Powiązane soundtracki**   
+Pasywnie - [Auriel's Ascension](https://www.youtube.com/watch?v=fHxQ4Nk9tpo)
+Walka - [The Battle For Everyone's Souls -Triple Mix-](https://www.youtube.com/watch?v=99sr7nyxkOc)
