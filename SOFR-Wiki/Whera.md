@@ -1,8 +1,8 @@
-# Głupi nigger
+# Whore
 > Cytat
-> \- postać robiąca cytat
+> \- "Mój syn to jebany debil" - Stary Whory
 ## Dane osobowe:
-- **Imię i nazwisko:** Prawdziwe imię i nazwisko (w przypadku braku, usuwamy)
+- **Imię i nazwisko:** 
 - **Wiek:** 
 - **Profesja:** 
 - **Pochodzenie:** 
