@@ -18,4 +18,4 @@ Stosunki wobec graczy i innych postaci/frakcji
 ## Przeszłość
 Przeszłość postaci
 ## Ciekawostki
-Koncept postaci, nawiązania 
+Koncept postaci, nawiązania

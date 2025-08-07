@@ -1,2 +1,2 @@
 [[Norte]]
-[[Thorin]]
+[Thorin](Thorin.md)

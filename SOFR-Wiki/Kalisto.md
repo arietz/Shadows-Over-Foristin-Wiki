@@ -1,2 +1,2 @@
-[[Ganimedes]]
+[[Ganymedes]]
 [[Archiwum]]
