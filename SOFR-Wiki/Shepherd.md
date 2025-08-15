@@ -12,7 +12,7 @@ Starszy miły pan, ubrany bardzo skromnie jak na swoją pozycję. Nosi idealnie 
 ## Osobowość
 Jeśli istnieje taka opcja to stara się pomóc innym. Jednym rzutem oka jest w stanie ocenić charakter. Miły dziadzio.
 ## Stosunki 
-Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczny. Opiekuje się [białymi kosami](Bia%C5%82e%20kosy.md) i stara się rozwiązać konflikty między nimi. Nienawidzi potworów i wszystkich rzeczy z nimi powiązanych. 
+Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczny. Opiekuje się [białymi kosami](Bia%C5%82e%20kosy.md) i stara się rozwiązywać konflikty między nimi. Nienawidzi potworów i wszystkich rzeczy z nimi powiązanych. 
 ## Wydarzenia
 - Archiwum Arc → Rozprawa sądowa w [Bristin](Bristin.md).
 - Najazd na Atone Arc → 
