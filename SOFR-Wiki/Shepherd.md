@@ -1,5 +1,5 @@
 # Shepherd, I Biała Kosa
-> Mimo wysokiego ów mościa stanowiska, nigdy żem nie widział, aby pogardzał niższymi sobie.  
+> Mimo wysokiej ów mościa pozycji, nigdy żem nie widział, aby pogardzał niższymi sobie.  
 >  \- [Juggernaut](Juggernaut.md)
 ## Dane osobowe:
 - **Imię i nazwisko:** Alfred Franz Fallow
@@ -12,6 +12,8 @@
 Starszy miły pan, ubrany bardzo skromnie jak na swoją pozycję. Wygląda dosyć zdrowo i energetycznie jak na swój wiek. Nosi idealnie pasujący do jego twarzy wąs. Jego broń i pancerz są niewidoczne w stanie pasywnym, przeważnie nawet ich nie nosi.
 ## Osobowość
 Fallow jest pełen życzliwości dla wszystkich którzy go otaczają, szczególnie dla tych którzy mu odpowiadają życzliwością. Zawsze stara się pomóc tym którzy są w potrzebie, nawet tym którzy na to nie zasługują. Uważa, że w każdym jest nadzieja na dobro i szansa na odkupienie, więc nigdy nie walczy w celu zabicia kogoś. Nienawidzi alkoholu, papierosów i wszystkiego co może działać jak narkotyk. W dużym skrócie: *Miły dziadzio.*
+## Cele i motywacje
+Głównym celem Shepherda jest pomoc jak największej ilości potrzebujących. W przeszłości jego celem było wybicie wszystkich naturalnie złych potworów, ale jak po czasie się przekonał, jest to **niemożliwe**.
 ## Wyposażenie
 Pomimo przynależności do białych kos, jego preferowaną bronią jest [magiczna włócznia](Spear%20of%20The%20Holy%20Alliance.md), która jest w stanie stworzyć spektralne lewitujące włócznie podczas walki. Kolejną bronią w arsenale Fallow'a jest spektralna kosa, którą może manifestować w dowolnym momencie. Shepherd posiada również Adamantytowy Plate Armor wzmacniany magią oraz szereg przedmiotów magicznych z których korzysta zależnie od zadania którego się akurat podejmuje. 
 ## Umiejętności specjalne
@@ -33,7 +35,7 @@ Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczn
 ## Przeszłość
 Z zawodu pasterz. W młodości udało mu się poskromić potężnego demona który uciekł z jednego z piekieł. [Hein](Arbiter%20Hein.md) trenował go po godzinach w [Black Citadel](Black%20Citadel.md). Dzięki swojej determinacji zapracował sobie na miejsce wśród kos i po śmierci poprzedniej jedynki zajął jego miejsce.
 ## Ciekawostki
-Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef.  
+Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef. Podczas tworzenia białych kos, zdecydowałem się nad opisywaniem ich systemem numerycznym. Automatycznie z tego powodu powstał kłopot co zrobić z takimi numerami jak I, czy XI. W taki sposób naszedł mi do głowy postaci ojcowskiej jako głowa i początek białych kos.
 **Powiązane soundtracki**   
 Pasywnie - [Auriel's Ascension](https://www.youtube.com/watch?v=fHxQ4Nk9tpo)
 Walka - [The Battle For Everyone's Souls -Triple Mix-](https://www.youtube.com/watch?v=99sr7nyxkOc)
