@@ -35,7 +35,7 @@ Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczn
 ## Przeszłość
 Z zawodu pasterz. W młodości udało mu się poskromić potężnego demona który uciekł z jednego z piekieł. [Hein](Arbiter%20Hein.md) trenował go po godzinach w [Black Citadel](Black%20Citadel.md). Dzięki swojej determinacji zapracował sobie na miejsce wśród kos i po śmierci poprzedniej jedynki zajął jego miejsce.
 ## Ciekawostki
-Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef. Podczas tworzenia białych kos, zdecydowałem się nad opisywaniem ich systemem numerycznym. Automatycznie z tego powodu powstał kłopot co zrobić z takimi numerami jak I, czy XI. W taki sposób naszedł mi do głowy postaci ojcowskiej jako głowa i początek białych kos.
-**Powiązane soundtracki**   
-Pasywnie - [Auriel's Ascension](https://www.youtube.com/watch?v=fHxQ4Nk9tpo)
-Walka - [The Battle For Everyone's Souls -Triple Mix-](https://www.youtube.com/watch?v=99sr7nyxkOc)
+Koncept miłosiernego pasterza jako opiekuna/ojca jest inspirowane biblijnymi postaciami takimi jak Dawid lub Józef. Podczas tworzenia białych kos, zdecydowałem się nad opisywaniem ich systemem numerycznym. Automatycznie z tego powodu powstał kłopot co zrobić z takimi numerami jak I, czy XI. W taki sposób naszedł mi do głowy postaci ojcowskiej jako głowa i początek białych kos.  
+##### **Powiązane soundtracki**   
+- Pasywnie - [Auriel's Ascension](https://www.youtube.com/watch?v=fHxQ4Nk9tpo)
+- Walka - [The Battle For Everyone's Souls -Triple Mix-](https://www.youtube.com/watch?v=99sr7nyxkOc)

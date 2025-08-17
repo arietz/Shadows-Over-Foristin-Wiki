@@ -27,5 +27,5 @@ Stosunki wobec graczy i innych postaci/frakcji
 Przeszłość postaci
 ## Ciekawostki
 Koncept postaci, nawiązania
-**Powiązane soundtracki**  
-Miejsce/wydarzenie - Link do soundtracku
+##### **Powiązane soundtracki**  
+- Miejsce/wydarzenie - Link do soundtracku
