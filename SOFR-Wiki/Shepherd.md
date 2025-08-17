@@ -25,7 +25,7 @@ Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczn
 	- Spotkanie Fallowa w [Tawernie Shepherd](Tawerna%20Shepherd.md)
 	- Uchronienie [Drużyny Pięcienia](Dru%C5%BCyna%20Pi%C4%99cienia.md) przed białymi kosami w Tawernie
 	- Ujawnienie się jako członek Białych Kos i obrona w sądzie
-- **III Najazd na Atone Arc**
+- **Najazd na Atone Arc**
 	- Spotkanie przed bramami [Bristin](Bristin.md) podczas ataku zainfekowanych
 	- Rozmowa w [Kawiarni Gildii Kupieckiej](Kawiarnia%20Gildii%20Kupieckiej.md)
 	- Wyprawa do [Atone](Atone.md)
