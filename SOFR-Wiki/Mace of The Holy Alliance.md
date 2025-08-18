@@ -35,6 +35,7 @@ Przeszłość przedmiotu
 ## Karta przedmiotu
 
 <img src="./grafika/MaceOfTheHolyAlliance.png" alt="Mace of The Holy Alliance" width="350"/>
+
 ## Ciekawostki
 - Broń wzorowana na Mace of Disruption z D&D 5e.
 - Umiejętność maczugi do przenoszenia się w inny wymiar można wykorzystać w celach defensywnych.
