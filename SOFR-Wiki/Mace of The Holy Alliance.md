@@ -6,7 +6,6 @@ Buzdygan - podłużna obuchowa broń, typowo używana przez kleryków.
 Posiada szorstką metaliczną owalną rękojeść, na której wtopiony jest przełącznik.
 Pod rękojeścią znajduje się krótki skórzany uchwyt.
 ## Właściwości przedmiotu
-
 Dodatkowe +3 do trafienia oraz zadawanych obrażeń.
 
 **Enemy of the Vicious:** Broń wymagająca przywiązania. Najlepiej działająca w walce z nieumarłymi i demonami, przez swoje 4d6 dodatkowych świętych obrażeń dla tych ras. Dodatkowo, jeżeli przeciwnik po otrzymaniu obrażeń ma mniej niż 25 HP, musi wykonać Saving throw'a na 15 Wisdom'u, w przeciwnym razie zginąć. 
