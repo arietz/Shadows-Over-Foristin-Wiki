@@ -1,2 +1,2 @@
 [[Yalindor]]
--dodac lokaja
+[[Fawdon]]

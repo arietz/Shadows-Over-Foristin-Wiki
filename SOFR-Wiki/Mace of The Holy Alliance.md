@@ -1,5 +1,5 @@
 # Nazwa przedmiotu
-> Cytat
+> 
 > \- [[Gallas]]
 ## Wygląd
 Buzdygan - podłużna obuchowa broń, typowo używana przez kleryków. 
@@ -13,21 +13,21 @@ Dodatkowe +3 do trafienia oraz zadawanych obrażeń.
 - **Soul trade:** Po pokonaniu nieumarłego lub demona, maczuga wsysa duszę przeciwnika w postaci ładunku. Użytkownik może jako Akcję przyzwać summona kosztem ładunków. Summona można przyzwać dwoma metodami (obie zużywają Akcję):
 	- Przez wywołanie nazwy danego summona, zakładając, że ma się wystarczająco ładunków.
 	- Przeniesienie się do wymiaru maczugi.
-
-Wymiar maczugi jest przedstawiony jako biała, jasna przestrzeń lub bardzo ciemna, w zależności od ilości ładunków. Po wejściu do wymiaru maczugi, ukazują się rzędy kamiennych piedestałów. Dotknięcie piedestału jest równoznaczne z wybraniem summona. 
-
-Do innego wymiaru można zabierać dodatkowe osoby, chociaż może się to wiązać z nieoczekiwanymi konsekwencjami :)
-
-I rząd:
-- [Avenger](Summon%20-%20Avenger.md)
-- [Defender](Summon%20-%20Defender.md)
-
-II rząd:
-- [Champion](Summon%20-%20Champion.md)
-
-III rząd:
-- [Skrzydło](Summon%20-%20Skrzydło.md)
-- [Oko](Summon%20-%20Oko.md)
+	
+	Wymiar maczugi jest przedstawiony jako biała, jasna przestrzeń lub bardzo ciemna, w zależności od ilości ładunków. Po wejściu do wymiaru maczugi, ukazują się rzędy kamiennych piedestałów. Dotknięcie piedestału jest równoznaczne z wybraniem summona. 
+	
+	Do innego wymiaru można zabierać dodatkowe osoby, chociaż może się to wiązać z nieoczekiwanymi konsekwencjami.
+	
+	I rząd:
+	- [Avenger](Summon%20-%20Avenger.md)
+	- [Defender](Summon%20-%20Defender.md)
+	
+	II rząd:
+	- [Champion](Summon%20-%20Champion.md)
+	
+	III rząd:
+	- [Skrzydło](Summon%20-%20Skrzydło.md)
+	- [Oko](Summon%20-%20Oko.md)
 ## Historia
 Przeszłość przedmiotu
 ## Wydarzenia
