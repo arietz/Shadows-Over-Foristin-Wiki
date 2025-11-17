@@ -1,3 +1,5 @@
+### Góra
+
 -Norte odmawia Fawdonowi, chowa się za trumną, udaje mu się uciec dzięki divine intervention beatrice
 -hein rozmawia z norte, mówi mu aby zjawił się o 8:00 następnego dnia, norte jest zmieszany i chodzi po lesie zbierając myśli 
 -rozmowa norte z dewanogiem
