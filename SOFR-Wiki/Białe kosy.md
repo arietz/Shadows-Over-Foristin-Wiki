@@ -9,3 +9,4 @@
 [[Birdwatcher]] -> martwy
 [[Arbiter Hein]]
 [[Shepherd]]
+[[Dyplomata]]

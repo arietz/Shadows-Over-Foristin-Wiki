@@ -1,2 +1,2 @@
 [[Drużyna Pięcienia]]
-[[Kalisto]]
+[[Kallisto]]
