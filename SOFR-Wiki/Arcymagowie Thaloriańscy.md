@@ -12,7 +12,7 @@
 | 4.  | ████                                         | Chronomaturgia                                 | ████          | ████        | Usunięty z czasu |
 | 5.  | Edward                                       | Alchemia, transmutacja                         | Golden Dragon | ~1400 lat   | ~400 lat         |
 | 6.  | Anis                                         | Magia Iluzji, duplikacja                       | Elf           | 220 lat     | 70 lat           |
-| 7.  | Magneto                                      | Grawiturgia, telekineza                        | Elf           | 450 lat     | 150 lat          |
+| 7.  | Magino Ursus                                 | Grawiturgia, telekineza                        | Elf           | 450 lat     | 150 lat          |
 | 8.  | Cerridwen                                    | Wróżbiarstwo                                   | Elf           | 525 lat     | 330 lat          |
 | 9.  | Magnificent Christopher, the Divergent Skies | Larp wizard, Eloquence Bard, ludzie i jedzenie | Człowiek      | 33 lata     | 12 lat           |
 | 10. | Brevin Pritz                                 | Skryba                                         | Człowiek      | 49 lat      | 20 lat           |
