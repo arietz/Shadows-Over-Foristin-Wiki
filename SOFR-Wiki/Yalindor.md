@@ -1,2 +1,2 @@
-[[Drużyna Pięcienia]]
+[[Fourshadowing]]
 [[Pan Chaosu]]

@@ -23,7 +23,7 @@ Ceni graczy za pomoc w odzyskaniu ducha walki, za co jest im dozgonnie wdzięczn
 ## Wydarzenia
 - **Archiwum Arc**
 	- Spotkanie Fallowa w [Tawernie Shepherd](Tawerna%20Shepherd.md)
-	- Uchronienie [Drużyny Pięcienia](Dru%C5%BCyna%20Pi%C4%99cienia.md) przed białymi kosami w Tawernie
+	- Uchronienie [Drużyny Pięcienia](Fourshadowing.md) przed białymi kosami w Tawernie
 	- Ujawnienie się jako członek Białych Kos i obrona w sądzie
 - **Najazd na Atone Arc**
 	- Spotkanie przed bramami [Bristin](Bristin.md) podczas ataku zainfekowanych

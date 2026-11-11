@@ -1,2 +1,5 @@
 [[Lindamea]]
 [[Arbiter Hein]]
+[[Great Equalizer]]
+[[Ezwald]]
+[[Bóg Porządku]]

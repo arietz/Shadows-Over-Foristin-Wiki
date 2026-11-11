@@ -1,1 +1,7 @@
 [[Yalindor]]
+[[Chaos]]
+[[Podwładni Chaosu]]
+[[Pan Chaosu]]
+[[Wieża Atone]]
+[[Bóg Maszyn]]
+[[The Retainer]]

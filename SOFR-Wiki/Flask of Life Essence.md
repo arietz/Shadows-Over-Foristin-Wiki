@@ -6,7 +6,7 @@ Mała zielona buteleczka ze złotą gorącą cieczo-podobną substancją w środ
 ## Właściwości przedmiotu
 Postać może wypić ciekły ogień z buteleczki, aby odnowić HP równe 1d6 + 1 Hit Dice, tak jak podczas Short Rest'u. Poziom ciekłego ognia w butelce jest zależny od witalności i stanu postaci.
 ## Historia
-Ta niewielka buteleczka została prawdopodobnie porzucona lub zapomniana przez nieznanego poszukiwacza przygód nocującego w [jaskinii nieopodal Foristin](Jaskinia%20obok%20Foristin.md). Została znaleziona przez [Yalindora](Yalindor.md) w torbie obok ogniska w które był wbity kręcony miecz. Obecnie należy do [Drużyny Pięcienia](Dru%C5%BCyna%20Pi%C4%99cienia.md).
+Ta niewielka buteleczka została prawdopodobnie porzucona lub zapomniana przez nieznanego poszukiwacza przygód nocującego w [jaskinii nieopodal Foristin](Jaskinia%20obok%20Foristin.md). Została znaleziona przez [Yalindora](Yalindor.md) w torbie obok ogniska w które był wbity kręcony miecz. Obecnie należy do [Drużyny Pięcienia](Fourshadowing.md).
 ## Wydarzenia
 - [Poszukiwanie żółtego kryształu](Poszukiwanie%20%C5%BC%C3%B3%C5%82tego%20kryszta%C5%82u.md) → Odnalezienie przedmiotu
 ## Karta przedmiotu:  
